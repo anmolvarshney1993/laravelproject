@@ -9,7 +9,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Let me decrypt that up for you.
 
-Fork my repository.
+Fork and clone my repository.
 
 Go to the root directory in terminal and run-
 
